@@ -4,7 +4,7 @@
 
 MixCloudSeqRecon combines MixCloudSynth, which constructs paired cloudy and clear reflectance sequences, with MixCloudFormer for reconstructing sequences affected by thin and thick clouds.
 
-## MixCloudSeqPairs Dataset construction
+## MixCloudSeqPairs Dataset
 
 ![Examples from the MixCloudSeqPairs dataset](mixcloudseqpairs-examples.png)
 
