@@ -15,7 +15,7 @@ Monthly raw observations and reconstructed reflectance across six cities.
 ### Beijing
 
 | | | | | | |
-
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Jan · Raw**<br><img src="application/beijing/01_raw_white.jpg" width="130"> | **Feb · Raw**<br><img src="application/beijing/02_raw_white.jpg" width="130"> | **Mar · Raw**<br><img src="application/beijing/03_raw_white.jpg" width="130"> | **Apr · Raw**<br><img src="application/beijing/04_raw_white.jpg" width="130"> | **May · Raw**<br><img src="application/beijing/05_raw_white.jpg" width="130"> | **Jun · Raw**<br><img src="application/beijing/06_raw_white.jpg" width="130"> |
 | **Jul · Raw**<br><img src="application/beijing/07_raw_white.jpg" width="130"> | **Aug · Raw**<br><img src="application/beijing/08_raw_white.jpg" width="130"> | **Sep · Raw**<br><img src="application/beijing/09_raw_white.jpg" width="130"> | **Oct · Raw**<br><img src="application/beijing/10_raw_white.jpg" width="130"> | **Nov · Raw**<br><img src="application/beijing/11_raw_white.jpg" width="130"> | **Dec · Raw**<br><img src="application/beijing/12_raw_white.jpg" width="130"> |
 | **Jan · Result**<br><img src="application/beijing/01_reconstruction_white.jpg" width="130"> | **Feb · Result**<br><img src="application/beijing/02_reconstruction_white.jpg" width="130"> | **Mar · Result**<br><img src="application/beijing/03_reconstruction_white.jpg" width="130"> | **Apr · Result**<br><img src="application/beijing/04_reconstruction_white.jpg" width="130"> | **May · Result**<br><img src="application/beijing/05_reconstruction_white.jpg" width="130"> | **Jun · Result**<br><img src="application/beijing/06_reconstruction_white.jpg" width="130"> |
@@ -23,7 +23,7 @@ Monthly raw observations and reconstructed reflectance across six cities.
 
 ### Harbin
 
-
+| | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Jan · Raw**<br><img src="application/harbin/01_raw_white.jpg" width="130"> | **Feb · Raw**<br><img src="application/harbin/02_raw_white.jpg" width="130"> | **Mar · Raw**<br><img src="application/harbin/03_raw_white.jpg" width="130"> | **Apr · Raw**<br><img src="application/harbin/04_raw_white.jpg" width="130"> | **May · Raw**<br><img src="application/harbin/05_raw_white.jpg" width="130"> | **Jun · Raw**<br><img src="application/harbin/06_raw_white.jpg" width="130"> |
 | **Jul · Raw**<br><img src="application/harbin/07_raw_white.jpg" width="130"> | **Aug · Raw**<br><img src="application/harbin/08_raw_white.jpg" width="130"> | **Sep · Raw**<br><img src="application/harbin/09_raw_white.jpg" width="130"> | **Oct · Raw**<br><img src="application/harbin/10_raw_white.jpg" width="130"> | **Nov · Raw**<br><img src="application/harbin/11_raw_white.jpg" width="130"> | **Dec · Raw**<br><img src="application/harbin/12_raw_white.jpg" width="130"> |
